@@ -1,7 +1,6 @@
  tjena tjena
  hej
  mjil
- test
  cat
 Lantchips
 
