@@ -1,4 +1,8 @@
- tjena tjena
+Äpplen
+Apelsiner
+Tomater
+Bananer
+tjena tjena
  hej
  mjil
  
